@@ -107,11 +107,7 @@ This page allows employees to register their attendance by entering their name a
 
 After submitting attendance, the manager can access the attendance records using the manager password.
 
-<div align="center">
-
-<img src="images/manager-login.png" alt="Manager Access Page" width="650">
-
-</div>
+![Image Alt](https://github.com/engmilaf/Employee-Attendance-Management-System/blob/d8818b27ab82782beff89f3c8e0a6b791385b227/manager-login.png)
 
 ---
 
@@ -126,11 +122,7 @@ The table includes:
 * Entry Time
 * Attendance Status
 
-<div align="center">
-
-<img src="images/dashboard.png" alt="Manager Attendance Dashboard" width="950">
-
-</div>
+![Image Alt](https://github.com/engmilaf/Employee-Attendance-Management-System/blob/d8818b27ab82782beff89f3c8e0a6b791385b227/dashboard.png)
 
 ---
 
@@ -147,11 +139,7 @@ The database table contains the following fields:
 
 The following image shows the employee attendance records stored in the database.
 
-<div align="center">
-
-<img src="images/database.png" alt="MySQL Database" width="950">
-
-</div>
+![Image Alt](https://github.com/engmilaf/Employee-Attendance-Management-System/blob/d8818b27ab82782beff89f3c8e0a6b791385b227/database.png)
 
 ---
 
